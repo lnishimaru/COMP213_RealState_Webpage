@@ -1,0 +1,201 @@
+﻿#header {
+	background-position: left center;
+	background-image: url('images/newlogo.png');
+	background-repeat: no-repeat;
+	background-color: #0076C0;
+	background-size: 200px;
+}
+#profile {
+	background-color: #0076C0;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+#navBar {
+	background-color: #0076C0;
+	color: #FFFFFF;
+	background-image: none;
+}
+#footer {
+	padding: 2px;
+	background-color: #0076C0;
+	color: #FFFFFF;
+}
+#textNav {
+	text-decoration: none;
+	padding: 2px 8px 2px 2px;
+	text-align: right;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #FFFFFF;
+}
+#profilePhoto {
+	float: left;
+}
+#copy {
+	font-size: x-small;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#footer a {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#footer a:hover {
+	color: #0076C0;
+	background-color: #FFFFFF;
+	padding: 2px;
+}
+#profile a {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #000000;
+}
+#navBar a {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#navBar a:hover {
+	color: #0076C0;
+	background-color: #FFFFFF;
+	padding: 2px;
+}
+#nav {
+	background-color: #FFFFFF;
+}
+#photo {
+	padding: 2px;
+	border-style: double;
+	margin-top: 5px;
+}
+#allPage {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+	position: relative;
+	right: auto;
+	left: auto;
+	width: 980px;
+}
+#layer1 {
+	background-color: #0076C0;
+}
+#contact {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	padding-left: 10px;
+}
+#contact a {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+#contact a:hover {
+	color: #0076C0;
+	background-color: #FFFFFF;
+	padding: 2px;
+}
+#bioPhoto {
+	padding: 10px 20px 20px 5px;
+}
+h4 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #808080;
+	text-transform: capitalize;
+}
+#textBio {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	text-decoration: none;
+	font-style: italic;
+	color: #808080;
+	text-align: justify;
+}
+h2 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #808080;
+	text-transform: capitalize;
+}
+#achievs {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #1876B2;
+	text-transform: capitalize;
+	padding: 1px;
+	text-align: center;
+}
+#border {
+	padding: 3px;
+	border-right-style: double;
+	color: #1876B2;
+}
+#gallery 
+{
+	padding: 3px;
+	position: relative;
+}
+#gallery ul 
+{
+	list-style-type: none;
+	width: 900px;
+}
+#gallery li 
+{ display: inline; 
+  float: left;
+  padding: 10px; }
+#gallery img 
+{border-style: none; }
+#gallery a 
+{ text-decoration: none;
+  font-style: italic;  
+  color: #333; }
+#gallery span 
+{display: none; }
+#gallery a:hover span 
+{
+	display: block;
+	position: absolute;
+	top: 110px;
+	left: 70px;
+	text-align: center;
+}
+#propertyInfo {
+	clip: rect(auto, auto, auto, auto);
+	text-align: justify;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #808080;
+	font-size: small;
+}
+#tableTitle {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	text-transform: capitalize;
+	color: #808080;
+	font-weight: bold;
+}
+#tableDetail {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #666666;
+}
+#tableTitle a {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	text-decoration: none;
+	color: #808080;
+}
+#tableTitle a:hover {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #FFFFFF;
+	background-color: #666666;
+}
+#map a {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	text-decoration: none;
+	color: #666666;
+}
+#map a:hover {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #666666;
+}
+#propertiesList {
+	padding-top: 15px;
+}
